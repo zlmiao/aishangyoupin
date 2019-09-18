@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/fastdfs_client/src/main/java/org/csource/common/Base64.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/other projects/itheima-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other projects/itheima-httpclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other projects/itheima-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-content/taotao-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-content/taotao-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-protal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-search/taotao-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-search/taotao-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-sso-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-service" charset="UTF-8" />
+    <file url="file://E:/视频教程/17黑马49期/07.solr集群搭建_全局异常处理/源码笔记/课堂资料/工程/itheima-httpclient" charset="UTF-8" />
+    <file url="file://E:/视频教程/17黑马49期/07.solr集群搭建_全局异常处理/源码笔记/课堂资料/工程/itheima-parent" charset="UTF-8" />
+    <file url="file://E:/视频教程/17黑马49期/15 本项目工具软件 汇总源码包/参考资料/参考资料/01.参考资料/HttpClient/itheima-parent" charset="UTF-8" />
+  </component>
+</project>

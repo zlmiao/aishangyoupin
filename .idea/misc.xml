@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/taotao-content/taotao-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search/taotao-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search/taotao-serarch-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/other projects/pom.xml" />
+        <option value="E:/视频教程/17黑马49期/15 本项目工具软件 汇总源码包/参考资料/参考资料/01.参考资料/mybatis/pagehelper-fix/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-content/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-search-web/pom.xml" />
+        <option value="E:/视频教程/17黑马49期/15 本项目工具软件 汇总源码包/参考资料/参考资料/01.参考资料/HttpClient/itheima-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/other projects/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/other projects/itheima-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/other projects/itheima-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/other projects/itheima-activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
